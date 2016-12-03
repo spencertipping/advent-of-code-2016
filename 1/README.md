@@ -24,6 +24,6 @@ $ ni input FWpF_ p'r /^(.)(\d+)/' ,zAp'r 2*a-1, b' ,sA \
 Post-golfing:
 
 ```sh
-$ ni input2 FWpF_ p'r/^(.)(.*)/' ,zAp'r 2*a-1, b' ,sAp'r prec b, a*90' ,sA
+$ ni input2 FWpF_ p'r/^(.)(.*)/' ,zAp'r 2*a-1, b' ,sAp'r prec b, a*90' ,sAB
 $ ni input2 FWpF_ p'r/^(.)(.*)/' ,zAp'r 2*a-1, b' ,sAp'r prec 1, a*90 for 1..b' ,sABrp'++$h{a().",".b} > 1'
 ```
